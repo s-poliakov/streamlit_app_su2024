@@ -9,6 +9,6 @@ Web-приложение для классификации изображени�
 
 - [EfficientNet: Rethinking Model Scaling for Convolutional Neural Networks](https://arxiv.org/abs/1905.11946).
 
-[Ссылка на развернутое приложение](https://appappsu2024-xagkskv2tyeckyqmqphkjd.streamlit.app/).
+[Ссылка на развернутое приложение](https://web-app-su2024.streamlit.app/).
 
 Тестирование изменений без ключа SSH
